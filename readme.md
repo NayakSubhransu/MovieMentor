@@ -3,11 +3,11 @@
 <a name="readme-top"></a>
 <div align="center">
   <h1>🎬 MovieMentor</h1>
-  <h4>🎬 Movie Recommendation System</h4>
+  <h4>Movie Recommendation System</h4>
   <p>
     An intelligent system that harnesses the power of machine learning and natural language processing(NLP) to provide personalized movie recommendations tailored to individual preferences.
   </p>
-  <img src="https://machinelearninggeek.com/wp-content/uploads/2022/01/image-2.png" alt="Movie Recommendation System" width="700" height="400">
+  <img src="https://i0.wp.com/spotintelligence.com/wp-content/uploads/2023/11/content-based-recommendation-system.jpg?fit=1200%2C675&ssl=1" alt="Movie Recommendation System" width="800" height="400">
 </div>
 
 ## 📽️ About:
@@ -16,7 +16,7 @@ This project aims to develop a cutting-edge movie recommendation system that lev
 
 The recommendation engine employs a content-based filtering approach, analyzing movie overviews, features, and user-item interactions to provide highly relevant and personalized recommendations. By combining machine learning algorithms with natural language processing techniques, the system can effectively understand and interpret user preferences, enabling it to suggest movies that align with their specific interests.
 
-See the implementation details with [IPython Notebook](https://github.com/NayakSubhransu/Movie-Recommendation-System/blob/main/Movie_Recommendation_System.ipynb).
+See the implementation details with [IPython Notebook](https://github.com/NayakSubhransu/MovieMentor/blob/main/MovieMentor.ipynb).
 
 ## 🚀 Getting Started:
 
@@ -35,13 +35,13 @@ Before proceeding, ensure that you have the following software installed:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/NayakSubhransu/Movie-Recommendation-System.git
+   git clone https://github.com/NayakSubhransu/MovieMentor.git
    ```
 
 2. **Change the Working Directory**
 
    ```sh
-   cd Movie-Recommendation-System
+   cd MovieMentor
    ```
 
 3. **Create and Activate a Virtual Environment**
@@ -89,14 +89,10 @@ In addition to the web application, you can also run the Movie Recommendation Sy
 
 1. **Install Required Packages**
 
-   ```sh
-   pip install pandas requests rich
-   ```
-
 2. **See the Movie List**
 
    ```sh
-   python app_cli.py --movie list --page_number 2  # Default page number is 2
+   python MovieMentor_cli.py --movie list --page_number 2  # Default page number is 2
    ```
 
    This command will display a list of movies from the dataset. You can specify the page number using the `--page_number` option (default is 2).
@@ -104,7 +100,7 @@ In addition to the web application, you can also run the Movie Recommendation Sy
 3. **Get Movie Recommendations**
 
    ```sh
-   python app_cli.py --movie "YourMovieTitle" --num_recommendations 5  # Default number of recommendations is 5
+   python MovieMentor_cli.py --movie "YourMovieTitle" --num_recommendations 5  # Default number of recommendations is 5
    ```
 
    Replace `"YourMovieTitle"` with the title of a movie you're interested in, and the system will provide the top 5 movie recommendations based on your selection. You can adjust the number of recommendations using the `--num_recommendations` option (default is 5).
@@ -113,7 +109,7 @@ In addition to the web application, you can also run the Movie Recommendation Sy
 
 - **Content-Based Filtering Algorithm**: The system employs a content-based filtering algorithm to analyze movie overviews, features, and metadata to identify similarities between movies and user preferences.
 - **Cosine Similarity and Vectorization**: The project implements cosine similarity calculations and vectorization techniques to measure the similarity between textual documents, such as movie overviews and user reviews.
-- **Collaborative Filtering**: In addition to content-based filtering, the system utilizes user-based and item-based collaborative filtering techniques to enhance the recommendation accuracy by incorporating user-item interactions and preferences.
+- **Collaborative Filtering**: In addition to content-based filtering, the system utilizes user-based and item-based collaborative filtering techniques to enhance recommendation accuracy by incorporating user-item interactions and preferences.
 - **Personalized Recommendations**: Users receive tailored movie suggestions based on their preferences, behavior, and the similarities between movies, ensuring a highly personalized and relevant recommendation experience.
 
 ## 📁 Datasets:
@@ -162,7 +158,7 @@ The Movie Recommendation System has several potential areas for future improveme
 
 Contributions to the Movie Recommendation System are highly appreciated and welcome. If you encounter any issues, have suggestions for improvements, or would like to add new features, please follow these steps:
 
-1. **Fork the Repository**: Start by forking the [MovieMentor repository](https://github.com/NayakSubhransu/Movie-Recommendation-System) on GitHub.
+1. **Fork the Repository**: Start by forking the [MovieMentor repository](https://github.com/NayakSubhransu/MovieMentor.git) on GitHub.
 2. **Create a Branch**: Create a new branch for your feature or bug fix by running `git checkout -b feature/your-feature-name` or `git checkout -b fix/your-fix-name`.
 3. **Make Changes**: Implement your changes, following best coding practices and ensuring that your code is well-documented and tested.
 4. **Commit and Push**: Commit your changes with descriptive commit messages and push them to your forked repository.
