@@ -1,0 +1,13 @@
+requests
+pandas 
+rich
+pyfiglet
+numpy
+gunicorn
+pickle
+streamlit 
+pillow
+colorama
+wordcloud
+matplotlib
+streamlit_lottie
