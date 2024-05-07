@@ -7,7 +7,7 @@
   <p>
     An intelligent system that harnesses the power of machine learning and natural language processing(NLP) to provide personalized movie recommendations tailored to individual preferences.
   </p>
-  <img src="https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2022_01_Content-Based-Filtering.jpg" alt="Movie Recommendation System" width="800" height="400">
+  <img src="https://i0.wp.com/spotintelligence.com/wp-content/uploads/2023/11/content-based-recommendation-system.jpg?fit=1200%2C675&ssl=1" alt="Movie Recommendation System" width="800" height="400">
 </div>
 
 ## 📽️ About:
