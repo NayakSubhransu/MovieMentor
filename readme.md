@@ -114,7 +114,7 @@ In addition to the web application, you can also run the Movie Recommendation Sy
 
 ## 📁 Datasets:
 
-The Movie Recommendation System relies on a comprehensive movie dataset containing rich information about movie features, overviews, and credits. This dataset undergoes thorough preprocessing to extract relevant features and ratings, which are then used to train and evaluate the recommendation algorithms.
+The Movie Recommendation System relies on a comprehensive movie dataset (data) containing rich information about movie features, overviews, and credits. This dataset undergoes thorough preprocessing to extract relevant features and ratings, which are then used to train and evaluate the recommendation algorithms.
 
 ## 📚 Requirement Packages:
 
