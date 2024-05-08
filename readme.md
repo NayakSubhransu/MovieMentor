@@ -158,14 +158,21 @@ The MovieMentor web application provides a user-friendly interface for discoveri
 ## 💻 CLI Application
 For quick and convenient recommendations, the MovieMentor CLI application allows users to input movie titles directly from the terminal and receive personalized recommendations instantly.
 
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/NayakSubhransu/MovieMentor/main/assets/cli-app-screenshot.png" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/f1bc93c6-6b1e-487f-8ecd-7a3164e36d23
+" width="800" height="500">
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/NayakSubhransu/MovieMentor/main/assets/web-app-screenshot.png" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/b60ae83a-f29c-4fd0-9831-37faee57585e
+" width="800" height="500">
 </div>
 
+<div align="center">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/f1bc93c6-6b1e-487f-8ecd-7a3164e36d23
+" width="800" height="500">
+</div>
 
 ## 🏆 Usage
 MovieMentor can be utilized by both new and existing users to receive personalized movie recommendations:
