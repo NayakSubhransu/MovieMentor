@@ -148,8 +148,7 @@ The MovieMentor web application provides a user-friendly interface for discoveri
 </div>
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/5bcce2ce-dc29-4b7b-a7bb-a1cdcc65e1fa
-" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/5776c230-e984-4769-a2a6-a59cb4eb1774" width="800" height="500">
 </div>
 
 <div align="center">
