@@ -170,8 +170,7 @@ For quick and convenient recommendations, the MovieMentor CLI application allows
 </div>
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/f1bc93c6-6b1e-487f-8ecd-7a3164e36d23
-" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/c8f88b7e-df5e-4b9d-9d84-76210b3efc51" width="800" height="500">
 </div>
 
 ## 🏆 Usage
