@@ -140,19 +140,22 @@ These dependencies are automatically installed when running the `python -m pip i
 The MovieMentor web application provides a user-friendly interface for discovering and exploring movie recommendations. Users can input their preferences, and the application will generate personalized recommendations based on their choices.
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/9935bf2c-f134-4419-a22d-0609bd5c8f93" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/9935bf2c-f134-4419-a22d-0609bd5c8f93" width="800" height="400">
 </div>
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/7c396b5f-c7e4-4046-a215-236bbc6d1725" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/7c396b5f-c7e4-4046-a215-236bbc6d1725" width="800" height="400">
+</div>
+<div align="center">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/a4617c1e-53aa-4271-8a19-22d79c31d407" width="800" height="400">
 </div>
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/5776c230-e984-4769-a2a6-a59cb4eb1774" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/5776c230-e984-4769-a2a6-a59cb4eb1774" width="800" height="400">
 </div>
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/3bfcb6e3-5c77-44a9-8080-7b80c71e7df9" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/3bfcb6e3-5c77-44a9-8080-7b80c71e7df9" width="800" height="400">
 </div>
 
 ## 💻 CLI Application
