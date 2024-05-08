@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 <div align="center">
   <h1>🎬 MovieMentor</h1>
-  <h4>Movie Recommendation System</h4>
+  <h3>Movie Recommendation System</h3>
   <p>
     An intelligent system that harnesses the power of machine learning and natural language processing(NLP) to provide personalized movie recommendations tailored to individual preferences.
   </p>
@@ -13,10 +13,21 @@
 ## 📽️ About:
 
 This project aims to develop a cutting-edge movie recommendation system that leverages advanced techniques in data cleaning, exploratory data analysis (EDA), machine learning, and natural language processing (NLP). The system is designed to suggest movies to users based on their unique preferences, behavior, and the similarities between movies.
-
+<br /><br />
 The recommendation engine employs a content-based filtering approach, analyzing movie overviews, features, and user-item interactions to provide highly relevant and personalized recommendations. By combining machine learning algorithms with natural language processing techniques, the system can effectively understand and interpret user preferences, enabling it to suggest movies that align with their specific interests.
-
+<br /><br />
 See the implementation details with [IPython Notebook](https://github.com/NayakSubhransu/MovieMentor/blob/main/MovieMentor.ipynb).
+
+
+## 🌟 Key Features
+
+💡 Content-Based Filtering Algorithm: MovieMentor employs a cutting-edge content-based filtering algorithm that analyzes movie overviews, features, and metadata to identify similarities between movies and your preferences.<br />
+🗜️ Cosine Similarity and Vectorization: The system implements advanced cosine similarity calculations and vectorization techniques to accurately measure the similarity between textual documents, such as movie overviews and user reviews.<br />
+👥 Collaborative Filtering: In addition to content-based filtering, MovieMentor utilizes user-based and item-based collaborative filtering techniques to enhance recommendation accuracy by incorporating user-item interactions and preferences.<br />
+🎯 Personalized Recommendations: You'll receive tailored movie suggestions based on your unique preferences, behavior, and the similarities between movies, ensuring a highly personalized and relevant recommendation experience.<br />
+
+## 📁 Datasets
+MovieMentor relies on a comprehensive movie dataset containing rich information about movie features, overviews, credits, and ratings. This dataset undergoes thorough preprocessing to extract relevant features, ensuring that the recommendation algorithms have access to high-quality data for training and evaluation.
 
 ## 🚀 Getting Started:
 
@@ -105,16 +116,6 @@ In addition to the web application, you can also run the Movie Recommendation Sy
 
    Replace `"YourMovieTitle"` with the title of a movie you're interested in, and the system will provide the top 5 movie recommendations based on your selection. You can adjust the number of recommendations using the `--num_recommendations` option (default is 5).
 
-## 🔑 Key Features:
-
-- **Content-Based Filtering Algorithm**: The system employs a content-based filtering algorithm to analyze movie overviews, features, and metadata to identify similarities between movies and user preferences.
-- **Cosine Similarity and Vectorization**: The project implements cosine similarity calculations and vectorization techniques to measure the similarity between textual documents, such as movie overviews and user reviews.
-- **Collaborative Filtering**: In addition to content-based filtering, the system utilizes user-based and item-based collaborative filtering techniques to enhance recommendation accuracy by incorporating user-item interactions and preferences.
-- **Personalized Recommendations**: Users receive tailored movie suggestions based on their preferences, behavior, and the similarities between movies, ensuring a highly personalized and relevant recommendation experience.
-
-## 📁 Datasets:
-
-The Movie Recommendation System relies on a comprehensive movie dataset (data) containing rich information about movie features, overviews, and credits. This dataset undergoes thorough preprocessing to extract relevant features and ratings, which are then used to train and evaluate the recommendation algorithms.
 
 ## 📚 Requirement Packages:
 
@@ -135,34 +136,64 @@ The following packages and libraries are required to run the Movie Recommendatio
 
 These dependencies are automatically installed when running the `python -m pip install -r requirements.txt` command during the installation process.
 
-## 🚀 Usage:
+## 🖥️ Web Application
+The MovieMentor web application provides a user-friendly interface for discovering and exploring movie recommendations. Users can input their preferences, and the application will generate personalized recommendations based on their choices.
 
-The Movie Recommendation System can be utilized by both new and existing users to receive personalized movie recommendations. Here's how it works:
+<div align="center">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/9935bf2c-f134-4419-a22d-0609bd5c8f93" width="800" height="500">
+</div>
 
-1. **User Preferences**: Users can input their movie preferences, such as genres, actors, directors, or specific movie titles they enjoy.
-2. **Historical Data**: The system leverages historical data, including user-item interactions and movie metadata, to identify patterns and similarities.
-3. **Recommendation Generation**: Based on the user's preferences and the analyzed data, the system generates a list of recommended movies tailored to the user's unique interests and tastes.
-4. **Exploration and Feedback**: Users can explore the recommended movies, provide feedback, and refine their preferences for even more accurate recommendations in the future.
+<div align="center">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/7c396b5f-c7e4-4046-a215-236bbc6d1725" width="800" height="500">
+</div>
 
-## 🔮 Future Improvements:
+<div align="center">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/f450627b-ac72-4870-b506-ce7bfaf763a5
+" width="800" height="500">
+</div>
 
-The Movie Recommendation System has several potential areas for future improvements and enhancements:
+<div align="center">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/39929f44-5981-407e-8742-f88234cc9728
+" width="800" height="500">
+</div>
 
-- **Deep Learning Models**: Incorporate advanced deep learning models, such as neural networks or transformers, to further improve recommendation accuracy and handle more complex data patterns.
-- **User Interface Enhancements**: Develop a more intuitive and user-friendly interface to enhance the overall user experience, making it easier for users to input their preferences and explore recommendations.
-- **Additional Data Sources**: Integrate additional data sources, such as user reviews, ratings, and social media data, to enhance the system's understanding of user preferences and movie characteristics.
-- **Hybrid Recommendation Approach**: Explore a hybrid recommendation approach that combines content-based filtering, collaborative filtering, and other advanced techniques to leverage the strengths of multiple algorithms and provide more robust recommendations.
-- **Real-Time Updates**: Implement mechanisms to continuously update the recommendation models with new data, ensuring that the system remains up-to-date and can adapt to changing user preferences and movie releases.
+## 💻 CLI Application
+For quick and convenient recommendations, the MovieMentor CLI application allows users to input movie titles directly from the terminal and receive personalized recommendations instantly.
 
-## 🤝 Contributions:
+<div align="center">
+<img src="https://raw.githubusercontent.com/NayakSubhransu/MovieMentor/main/assets/cli-app-screenshot.png" width="800" height="500">
+</div>
 
-Contributions to the Movie Recommendation System are highly appreciated and welcome. If you encounter any issues, have suggestions for improvements, or would like to add new features, please follow these steps:
+<div align="center">
+<img src="https://raw.githubusercontent.com/NayakSubhransu/MovieMentor/main/assets/web-app-screenshot.png" width="800" height="500">
+</div>
 
-1. **Fork the Repository**: Start by forking the [MovieMentor repository](https://github.com/NayakSubhransu/MovieMentor.git) on GitHub.
-2. **Create a Branch**: Create a new branch for your feature or bug fix by running `git checkout -b feature/your-feature-name` or `git checkout -b fix/your-fix-name`.
-3. **Make Changes**: Implement your changes, following best coding practices and ensuring that your code is well-documented and tested.
-4. **Commit and Push**: Commit your changes with descriptive commit messages and push them to your forked repository.
-5. **Submit a Pull Request**: Open a new Pull Request on the original repository, providing a detailed description of your changes.
+
+## 🏆 Usage
+MovieMentor can be utilized by both new and existing users to receive personalized movie recommendations:
+
+🎯 User Preferences: Input your movie preferences, such as genres, actors, directors, or specific movie titles you enjoy.<br />
+📊 Historical Data: MovieMentor leverages historical data, including user-item interactions and movie metadata, to identify patterns and similarities.<br />
+🎥 Recommendation Generation: Based on your preferences and the analyzed data, the system generates a list of recommended movies tailored to your unique interests and tastes.<br />
+🔍 Exploration and Feedback: Explore the recommended movies, provide feedback, and refine your preferences for even more accurate recommendations in the future.<br />
+
+## 🌟 Future Improvements
+MovieMentor has several potential areas for future improvements and enhancements:
+
+🧠 **Deep Learning Models:** Incorporate advanced deep learning models, such as neural networks or transformers, to further improve recommendation accuracy and handle more complex data patterns.<br />
+🎨 **User Interface Enhancements:** Develop a more intuitive and user-friendly interface to enhance the overall user experience, making it easier for users to input their preferences and explore recommendations.<br />
+📂 **Additional Data Sources:** Integrate additional data sources, such as user reviews, ratings, and social media data, to enhance the system's understanding of user preferences and movie characteristics.<br />
+🔀 **Hybrid Recommendation Approach:** Explore a hybrid recommendation approach that combines content-based filtering, collaborative filtering, and other advanced techniques to leverage the strengths of multiple algorithms and provide more robust recommendations.<br />
+⏱️ **Real-Time Updates:** Implement mechanisms to continuously update the recommendation models with new data, ensuring that the system remains up-to-date and can adapt to changing user preferences and movie releases.<br />
+
+## 🤝 Contributing
+Contributions to MovieMentor are highly appreciated and welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please follow these steps:
+
+ 🍴 **Fork the Repository:** Start by forking the MovieMentor repository on GitHub.<br />
+🌱 **Create a Branch:** Create a new branch for your feature or bug fix by running git checkout -b feature/your-feature-name or git checkout -b fix/your-fix-name. <br />
+✨ **Make Changes:** Implement your changes, following best coding practices and ensuring that your code is well-documented and tested.<br />
+🔖 **Commit and Push:** Commit your changes with descriptive commit messages and push them to your forked repository.<br />
+🔍 **Submit a Pull Request:** Open a new Pull Request on the original repository, providing a detailed description of your changes.<br />
 
 ## 📚 Additional Resources:
 
