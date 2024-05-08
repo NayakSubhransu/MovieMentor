@@ -148,13 +148,12 @@ The MovieMentor web application provides a user-friendly interface for discoveri
 </div>
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/f450627b-ac72-4870-b506-ce7bfaf763a5
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/5bcce2ce-dc29-4b7b-a7bb-a1cdcc65e1fa
 " width="800" height="500">
 </div>
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/39929f44-5981-407e-8742-f88234cc9728
-" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/3bfcb6e3-5c77-44a9-8080-7b80c71e7df9" width="800" height="500">
 </div>
 
 ## 💻 CLI Application
