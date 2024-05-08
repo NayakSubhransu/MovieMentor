@@ -160,17 +160,20 @@ For quick and convenient recommendations, the MovieMentor CLI application allows
 
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/f1bc93c6-6b1e-487f-8ecd-7a3164e36d23
-" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/a0d3d19b-cd02-484b-9034-5b9918190e50" width="800" height="500">
 </div>
 
 <div align="center">
-<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/b60ae83a-f29c-4fd0-9831-37faee57585e
-" width="800" height="500">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/c5ecd378-d8be-4e3b-94cd-3a217c0774c1" width="800" height="500">
 </div>
 
 <div align="center">
 <img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/c8f88b7e-df5e-4b9d-9d84-76210b3efc51" width="800" height="500">
+</div>
+
+
+<div align="center">
+<img src="https://github.com/NayakSubhransu/MovieMentor/assets/139241744/a4be6cbb-7384-4e83-b5e2-33d914fb2d12" width="800" height="500">
 </div>
 
 ## 🏆 Usage
