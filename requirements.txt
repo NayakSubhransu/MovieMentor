@@ -1,13 +1,9 @@
 requests
 pandas 
-rich
-pyfiglet
 numpy
-gunicorn
 pickle
 streamlit 
-pillow
-colorama
+Pillow
 wordcloud
 matplotlib
 streamlit-lottie
