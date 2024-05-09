@@ -10,4 +10,4 @@ pillow
 colorama
 wordcloud
 matplotlib
-streamlit_lottie
+streamlit-lottie
