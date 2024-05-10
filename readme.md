@@ -2,7 +2,7 @@
 
 <a name="readme-top"></a>
 <div align="center">
-  <h1>🎬 MovieMentor</h1>
+  <h1>🎬 Project : MovieMentor</h1>
   <h3>Movie Recommendation System</h3>
   <p>
     An intelligent system that harnesses the power of machine learning and natural language processing(NLP) to provide personalized movie recommendations tailored to individual preferences.
