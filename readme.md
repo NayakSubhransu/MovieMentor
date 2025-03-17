@@ -26,10 +26,10 @@ See the implementation details with [IPython Notebook](https://github.com/NayakS
 
 ## 🌟 Key Features
 
-💡 Content-Based Filtering Algorithm: MovieMentor employs a cutting-edge content-based filtering algorithm that analyzes movie overviews, features, and metadata to identify similarities between movies and your preferences.<br />
-🗜️ Cosine Similarity and Vectorization: The system implements advanced cosine similarity calculations and vectorization techniques to accurately measure the similarity between textual documents, such as movie overviews and user reviews.<br />
-👥 Collaborative Filtering: In addition to content-based filtering, MovieMentor utilizes user-based and item-based collaborative filtering techniques to enhance recommendation accuracy by incorporating user-item interactions and preferences.<br />
-🎯 Personalized Recommendations: You'll receive tailored movie suggestions based on your unique preferences, behavior, and the similarities between movies, ensuring a highly personalized and relevant recommendation experience.<br />
+💡 Content-Based Filtering: MovieMentor uses a smart algorithm to analyze movie overviews and features, matching them to your tastes. <br />
+🗜️ Cosine Similarity & Vectorization: It measures how similar movies are by comparing their descriptions and user reviews using advanced math. <br />
+👥 Collaborative Filtering: The system also factors in user interactions, combining both user-based and item-based recommendations for better accuracy. <br />
+🎯 Personalized Picks: Get tailored movie suggestions that match your preferences and viewing history, ensuring recommendations are spot on. <br />
 
 ## 📁 Datasets
 MovieMentor relies on a comprehensive movie dataset containing rich information about movie features, overviews, credits, and ratings. This dataset undergoes thorough preprocessing to extract relevant features, ensuring that the recommendation algorithms have access to high-quality data for training and evaluation.
