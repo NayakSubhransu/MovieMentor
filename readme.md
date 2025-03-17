@@ -19,6 +19,8 @@ The recommendation engine employs a content-based filtering approach, analyzing 
 
 ![image](https://github.com/user-attachments/assets/a1e1d103-35f6-428e-afc9-1e6581bd8e00)
 
+https://youtu.be/YWfN60yRw4Y
+
 
 
 See the implementation details with [IPython Notebook](https://github.com/NayakSubhransu/MovieMentor/blob/main/MovieMentor.ipynb).
