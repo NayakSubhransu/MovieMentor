@@ -16,6 +16,9 @@ This project aims to develop a cutting-edge movie recommendation system that lev
 <br /><br />
 The recommendation engine employs a content-based filtering approach, analyzing movie overviews, features, and user-item interactions to provide highly relevant and personalized recommendations. By combining machine learning algorithms with natural language processing techniques, the system can effectively understand and interpret user preferences, enabling it to suggest movies that align with their specific interests.
 <br /><br />
+
+![image](https://github.com/user-attachments/assets/a1e1d103-35f6-428e-afc9-1e6581bd8e00)
+
 See the implementation details with [IPython Notebook](https://github.com/NayakSubhransu/MovieMentor/blob/main/MovieMentor.ipynb).
 
 
